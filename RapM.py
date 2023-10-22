@@ -7,11 +7,6 @@ st.write("Hiiiiiiiiiii")
 
 
 with st.sidebar:
-    st.title('Train Dynamic Simulation')
-    st.image(
-        "https://www.euspa.europa.eu/sites/default/files/files/content/news/images/home/alstom.jpg",
-        width=280,  # Manually Adjust the width of the image as per requirement
-    )
     st.header('Please Enter The Input Data:')
 
 with st.sidebar:
