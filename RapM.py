@@ -7,9 +7,6 @@ st.write("Hiiiiiiiiiii")
 
 
 with st.sidebar:
-    st.header('Please Enter The Input Data:')
-
-with st.sidebar:
     F1 = st.number_input('Insert First Frequency:', min_value=1, max_value=40, step=1)
 
 with st.sidebar:
