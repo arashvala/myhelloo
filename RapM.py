@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 
-st.header("Hiiiiiiiiiii babababa")
+st.header("Hi babababa")
 
 
 with st.sidebar:
