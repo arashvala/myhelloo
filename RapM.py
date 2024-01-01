@@ -27,4 +27,4 @@ Yt= np.sin(F1*Xt)+np.sin(F2*Xt)+np.sin(F3*Xt)+np.sin(F4*Xt)
 
 chart_data = pd.DataFrame(Yt)
 
-st.area_chart(chart_data)
+st.line_chart(chart_data)
